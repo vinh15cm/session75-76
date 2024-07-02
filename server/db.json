@@ -1,0 +1,86 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Back",
+      "price": 30,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "stock": 20,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.srVytxPUyuff1QWoJYTQLQHaHa&pid=Api&P=0&h=220"
+    },
+    {
+      "id": 2,
+      "name": "Vintage Leather Bag",
+      "price": 45,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "stock": 15,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.irud3QMQFVNA2dI091MQLQHaHa&pid=Api&P=0&h=220"
+    },
+    {
+      "id": 3,
+      "name": "Modern Sling Bag",
+      "price": 25,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "stock": 10,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.Hf5sa6tQcLtVVUF9PFWTPwHaKd&pid=Api&P=0&h=220"
+    },
+    {
+      "id": 4,
+      "name": "Classic Backpack",
+      "price": 60,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "stock": 8,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.0bDhvaIRj3Tkx2cx9hzLiwHaHa&pid=Api&P=0&h=220"
+    },
+    {
+      "id": 5,
+      "name": "Casual Tote Bag",
+      "price": 35,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "stock": 25,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.MqTlZJSF5Qb3gNLUk7IxxQHaHa&pid=Api&P=0&h=220"
+    }
+  ],
+  "cart": [
+    {
+      "id": 1,
+      "name": "Throwback Hip Back",
+      "price": 30,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "quantity": 20,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.srVytxPUyuff1QWoJYTQLQHaHa&pid=Api&P=0&h=220"
+    },
+    {
+      "id": 2,
+      "name": "Vintage Leather Bag",
+      "price": 45,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "quantity": 15,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.irud3QMQFVNA2dI091MQLQHaHa&pid=Api&P=0&h=220"
+    },
+    {
+      "id": 3,
+      "name": "Modern Sling Bag",
+      "price": 25,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "quantity": 10,
+      "image": "https://tse2.mm.bing.net/th?id=OIP.Hf5sa6tQcLtVVUF9PFWTPwHaKd&pid=Api&P=0&h=220"
+    },
+    {
+      "id": 4,
+      "name": "Classic Backpack",
+      "price": 60,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "quantity": 8,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.0bDhvaIRj3Tkx2cx9hzLiwHaHa&pid=Api&P=0&h=220"
+    },
+    {
+      "id": 5,
+      "name": "Casual Tote Bag",
+      "price": 35,
+      "title": "Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "quantity": 25,
+      "image": "https://tse1.mm.bing.net/th?id=OIP.MqTlZJSF5Qb3gNLUk7IxxQHaHa&pid=Api&P=0&h=220"
+    }
+  ]
+}
